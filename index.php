@@ -1,15 +1,11 @@
-<html>
-
-<head>
-<title>Forum</title>
-</head>
-
 <form action="yon.php">
   Ad:<input type="text"><br>
   Soyad:<input type="text"><br><br>
   Parola:<input type="password">
 <input type="submit" value="Gonder">
-  
 </form>
+
+<?php
+
+?>
   
-</html>
